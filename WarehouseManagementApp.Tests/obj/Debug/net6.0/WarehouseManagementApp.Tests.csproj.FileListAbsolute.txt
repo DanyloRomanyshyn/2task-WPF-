@@ -1,0 +1,5 @@
+C:\Users\1\Documents\WarehouseManagementApp\WarehouseManagementApp.Tests\obj\Debug\net6.0\WarehouseManagementApp.Tests.csproj.AssemblyReference.cache
+C:\Users\1\Documents\WarehouseManagementApp\WarehouseManagementApp.Tests\obj\Debug\net6.0\WarehouseManagementApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\WarehouseManagementApp\WarehouseManagementApp.Tests\obj\Debug\net6.0\WarehouseManagementApp.Tests.AssemblyInfoInputs.cache
+C:\Users\1\Documents\WarehouseManagementApp\WarehouseManagementApp.Tests\obj\Debug\net6.0\WarehouseManagementApp.Tests.AssemblyInfo.cs
+C:\Users\1\Documents\WarehouseManagementApp\WarehouseManagementApp.Tests\obj\Debug\net6.0\WarehouseManagementApp.Tests.csproj.CoreCompileInputs.cache

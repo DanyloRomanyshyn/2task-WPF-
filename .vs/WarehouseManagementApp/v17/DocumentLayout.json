@@ -1,0 +1,693 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5661446C-6EA8-4118-8B3F-5BA6B025CBF6}|WarehouseManagementApp.Tests\\WarehouseManagementApp.Tests.csproj|c:\\users\\1\\documents\\warehousemanagementapp\\warehousemanagementapp.tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5661446C-6EA8-4118-8B3F-5BA6B025CBF6}|WarehouseManagementApp.Tests\\WarehouseManagementApp.Tests.csproj|solutionrelative:warehousemanagementapp.tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\viewmodels\\ordersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\viewmodels\\ordersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\bll\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\bll\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\obj\\Debug\\Views\\ManageSuppliersWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarehouseManagementApp\\obj\\Debug\\Views\\ManageSuppliersWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\obj\\Debug\\ManageSuppliersWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarehouseManagementApp\\obj\\Debug\\ManageSuppliersWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|c:\\users\\1\\documents\\warehousemanagementapp\\warehousemanagementapp\\bll\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\bll\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\dal\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\dal\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\managesupplierswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\managesupplierswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\managesupplierswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\managesupplierswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WarehouseManagementApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\views\\managesupplierswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\views\\managesupplierswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\views\\managesupplierswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\views\\managesupplierswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5661446C-6EA8-4118-8B3F-5BA6B025CBF6}|WarehouseManagementApp.Tests\\WarehouseManagementApp.Tests.csproj|c:\\users\\1\\documents\\warehousemanagementapp\\warehousemanagementapp.tests\\warehousemanagementapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5661446C-6EA8-4118-8B3F-5BA6B025CBF6}|WarehouseManagementApp.Tests\\WarehouseManagementApp.Tests.csproj|solutionrelative:warehousemanagementapp.tests\\warehousemanagementapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5661446C-6EA8-4118-8B3F-5BA6B025CBF6}|WarehouseManagementApp.Tests\\WarehouseManagementApp.Tests.csproj|c:\\users\\1\\documents\\warehousemanagementapp\\warehousemanagementapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5661446C-6EA8-4118-8B3F-5BA6B025CBF6}|WarehouseManagementApp.Tests\\WarehouseManagementApp.Tests.csproj|solutionrelative:warehousemanagementapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\obj\\Debug\\Views\\ManageSuppliersWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarehouseManagementApp\\obj\\Debug\\Views\\ManageSuppliersWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\views\\manageorderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\views\\manageorderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\views\\manageorderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\views\\manageorderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\views\\manageproductswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\views\\manageproductswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\dal\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\dal\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\dal\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\dal\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\bll\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\bll\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\dal\\suppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\dal\\suppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\bll\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\bll\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\bll\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\bll\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\viewmodels\\suppliersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\viewmodels\\suppliersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagementApp\\warehousemanagementapp\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CF099-EE53-4A0A-B7E1-8ABE00AF4C02}|WarehouseManagementApp\\WarehouseManagementApp.csproj|solutionrelative:warehousemanagementapp\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ViewModels\\OrdersViewModel.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\ViewModels\\OrdersViewModel.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ViewModels\\OrdersViewModel.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\ViewModels\\OrdersViewModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:09:19.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:19:12.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:19:25.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\MainWindow.xaml",
+              "RelativeToolTip": "WarehouseManagementApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T23:00:03.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:27:39.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp.Tests\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp.Tests\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp.Tests\\ProductServiceTests.cs",
+              "RelativeToolTip": "WarehouseManagementApp.Tests\\ProductServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:08:25.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\BLL\\OrderService.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\BLL\\OrderService.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\BLL\\OrderService.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\BLL\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:46:53.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageSuppliersWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\obj\\Debug\\Views\\ManageSuppliersWindow.g.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\obj\\Debug\\Views\\ManageSuppliersWindow.g.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\obj\\Debug\\Views\\ManageSuppliersWindow.g.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\obj\\Debug\\Views\\ManageSuppliersWindow.g.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAlwCkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:38:41.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:01:21.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageSuppliersWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\obj\\Debug\\ManageSuppliersWindow.g.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\obj\\Debug\\ManageSuppliersWindow.g.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\obj\\Debug\\ManageSuppliersWindow.g.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\obj\\Debug\\ManageSuppliersWindow.g.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:06:11.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\BLL\\IOrderService.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\BLL\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\BLL\\IOrderService.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\BLL\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:15:26.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Models\\Product.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:33:18.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "WarehouseManagementApp\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T04:31:45.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\DAL\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\DAL\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\DAL\\UsersRepository.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\DAL\\UsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:34:50.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\BLL\\ProductService.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\BLL\\ProductService.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\BLL\\ProductService.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\BLL\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:43:06.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageSuppliersWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ManageSuppliersWindow.xaml",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\ManageSuppliersWindow.xaml",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ManageSuppliersWindow.xaml",
+              "RelativeToolTip": "WarehouseManagementApp\\ManageSuppliersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T00:17:44.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\App.xaml",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\App.xaml",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\App.xaml",
+              "RelativeToolTip": "WarehouseManagementApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T04:34:12.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManageProductsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Views\\ManageProductsWindow.xaml",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\Views\\ManageProductsWindow.xaml",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Views\\ManageProductsWindow.xaml",
+              "RelativeToolTip": "WarehouseManagementApp\\Views\\ManageProductsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T05:01:54.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManageOrdersWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Views\\ManageOrdersWindow.xaml",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\Views\\ManageOrdersWindow.xaml",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Views\\ManageOrdersWindow.xaml",
+              "RelativeToolTip": "WarehouseManagementApp\\Views\\ManageOrdersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T04:10:33.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManageOrdersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Views\\ManageOrdersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\Views\\ManageOrdersWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Views\\ManageOrdersWindow.xaml.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\Views\\ManageOrdersWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:11:37.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageSuppliersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Views\\ManageSuppliersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\Views\\ManageSuppliersWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Views\\ManageSuppliersWindow.xaml.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\Views\\ManageSuppliersWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:38:14.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageSuppliersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ManageSuppliersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\ManageSuppliersWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ManageSuppliersWindow.xaml.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\ManageSuppliersWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:50:25.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WarehouseManagementApp",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\WarehouseManagementApp.csproj",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\WarehouseManagementApp.csproj",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\WarehouseManagementApp.csproj",
+              "RelativeToolTip": "WarehouseManagementApp\\WarehouseManagementApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-26T05:59:24.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:01:27.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WarehouseManagementApp.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp.Tests\\WarehouseManagementApp.Tests.csproj",
+              "RelativeDocumentMoniker": "WarehouseManagementApp.Tests\\WarehouseManagementApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp.Tests\\WarehouseManagementApp.Tests.csproj",
+              "RelativeToolTip": "WarehouseManagementApp.Tests\\WarehouseManagementApp.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T05:28:27.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "WarehouseManagementApp.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:24:46.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ManageSuppliersWindow.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\obj\\Debug\\Views\\ManageSuppliersWindow.g.i.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\obj\\Debug\\Views\\ManageSuppliersWindow.g.i.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\obj\\Debug\\Views\\ManageSuppliersWindow.g.i.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\obj\\Debug\\Views\\ManageSuppliersWindow.g.i.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:14:35.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\App.xaml.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\App.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:26:41.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManageSuppliersWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Views\\ManageSuppliersWindow.xaml",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\Views\\ManageSuppliersWindow.xaml",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Views\\ManageSuppliersWindow.xaml",
+              "RelativeToolTip": "WarehouseManagementApp\\Views\\ManageSuppliersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T05:00:50.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceLocator.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ServiceLocator.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\ServiceLocator.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ServiceLocator.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\ServiceLocator.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:58:57.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Models\\Order.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:32:54.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\Models\\Supplier.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:32:30.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\1\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\1\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwC4AAAA2AAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:45:46.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\DAL\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\DAL\\OrdersRepository.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\DAL\\OrdersRepository.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\DAL\\OrdersRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:33:43.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ViewModels\\ProductsViewModel.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\ViewModels\\ProductsViewModel.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ViewModels\\ProductsViewModel.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\ViewModels\\ProductsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:52:49.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\BLL\\SupplierService.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\BLL\\SupplierService.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\BLL\\SupplierService.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\BLL\\SupplierService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:47:22.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\DAL\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\DAL\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\DAL\\ProductsRepository.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\DAL\\ProductsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:26:10.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SuppliersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\DAL\\SuppliersRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\DAL\\SuppliersRepository.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\DAL\\SuppliersRepository.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\DAL\\SuppliersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:11:05.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\BLL\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\BLL\\ISupplierService.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\BLL\\ISupplierService.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\BLL\\ISupplierService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:15:09.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\BLL\\IProductService.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\BLL\\IProductService.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\BLL\\IProductService.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\BLL\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:26:44.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SuppliersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ViewModels\\SuppliersViewModel.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\ViewModels\\SuppliersViewModel.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ViewModels\\SuppliersViewModel.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\ViewModels\\SuppliersViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:56:24.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementApp\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagementApp\\WarehouseManagementApp\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "WarehouseManagementApp\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:05:18.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

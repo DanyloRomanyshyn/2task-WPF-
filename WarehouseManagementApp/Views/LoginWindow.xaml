@@ -1,0 +1,15 @@
+﻿<Window x:Class="WarehouseManagementApp.Views.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" Height="250" Width="400">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="300">
+            <TextBlock Text="Username:" Margin="0,5"/>
+            <TextBox Name="UsernameTextBox" Margin="0,5"/>
+            <TextBlock Text="Password:" Margin="0,5"/>
+            <PasswordBox Name="PasswordBox" Margin="0,5"/>
+            <Button Content="Login" Width="100" HorizontalAlignment="Center" Margin="0,10"
+                    Click="LoginButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

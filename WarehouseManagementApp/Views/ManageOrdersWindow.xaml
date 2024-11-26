@@ -1,0 +1,17 @@
+﻿<Window x:Class="WarehouseManagementApp.Views.ManageOrdersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Manage Orders" Height="450" Width="800">
+    <Grid>
+        <DataGrid ItemsSource="{Binding Orders}" SelectedItem="{Binding SelectedOrder}" AutoGenerateColumns="True" Margin="20,0,0,20"/>
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,62,110" Height="41" Width="143">
+            <Button Content="Add" Command="{Binding AddOrderCommand}" Margin="5"/>
+            <Button Content="Update" Command="{Binding UpdateOrderCommand}" Margin="5"/>
+            <Button Content="Delete" Command="{Binding DeleteOrderCommand}" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

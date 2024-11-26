@@ -1,0 +1,9 @@
+﻿<Window x:Class="WarehouseManagementApp.Views.ManageSuppliersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Manage Suppliers" Height="450" Width="800">
+    <Grid>
+        <!-- UI компоненти для управління постачальниками -->
+        <Label Content="Manage Suppliers" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20"/>
+    </Grid>
+</Window>
